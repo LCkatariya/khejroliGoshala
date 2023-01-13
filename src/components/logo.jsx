@@ -1,6 +1,5 @@
 import React from "react";
 import Marquee, { Motion, randomIntFromInterval } from "react-marquee-slider";
-import times from "lodash/times";
 const arr = ['lalchand', 'suresh', 'saini', 'lucky', 'lalchand', 'suresh', 'saini', 'lucky', 'lalchand', 'suresh', 'saini', 'lucky'
 , 'lalchand', 'suresh', 'saini', 'lucky']
 export const Review = () => (

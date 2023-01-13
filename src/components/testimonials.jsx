@@ -18,18 +18,16 @@ export const Testimonials = (props) => {
                 repellendus exit placeat ipsam, officiis fugiat doloremque
                 ducimus tempore aliquid nihil soluta, quia similique veritatis.
               </p>
-              <a
-                class="btn btn-dark btn-theme-colored btn-lg btn-flat pull-left pl-30 pr-30"
-                href="#"
-              >
+              <button class="btn btn-dark btn-theme-colored btn-lg btn-flat pull-left pl-30 pr-30">
                 Join Us
-              </a>
+              </button>
             </div>
             <div class="col-md-5">
               <div class="fluid-video-wrapper">
                 <iframe
                   width="560"
                   height="315"
+                  title="lal"
                   src="https://www.youtube.com/embed/JJlqhqRt5Ac?mute=1&autoplay=1&controls=1&allowfullscreen=1"
                   frameborder="0"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

@@ -4,7 +4,7 @@ export const Footer = () => {
   return(
     <>
      <footer id="footer" class="footer pb-0" data-bg-img="images/footer-bg.png" data-bg-color="#25272e">
-    <div class="container pb-20">
+    {/* <div class="container pb-20">
       <div class="row multi-row-clearfix">
         <div class="col-sm-6 col-md-3">
           <div class="widget dark"> <img alt="" src="images/logo-wide.png" width={'200px'} />
@@ -108,20 +108,20 @@ export const Footer = () => {
                   }
                   $mailchimpform.prepend($response);
               }
-            </script> */}
+            </script> 
           </div>
         </div>
       </div>
-    </div>
+    </div> */}
     <div class="container-fluid bg-theme-colored p-20">
       <div class="row text-center">
         <div class="col-md-12">
-          <p class="text-white font-11 m-0">Copyright &copy;2015 ThemeMascot. All Rights Reserved</p>
+          <p class="text-white font-11 m-0">Copyright &copy;2015 lalchand. All Rights Reserved</p>
         </div>
       </div>
     </div>
   </footer>
-  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+  <button class="scrollToTop"><i class="fa fa-angle-up"></i></button>
     </>
   );
 };

@@ -8,21 +8,37 @@ export const Services = (props) => {
           <div class="row">
             <div class="col-md-7">
               <h3 class="line-bottom">DONATION</h3>
-              <p class="mt-30 mb-30" style={{ fontSize:'20px', fontWeight:600, fontFamily:'system-ui' }}>
-                Instructions: "To donation, simply scan the QR code using
-                your smartphone or tablet camera. Make sure you have an internet
+              <p
+                class="mt-30 mb-30"
+                style={{
+                  fontSize: "20px",
+                  fontWeight: 600,
+                  fontFamily: "system-ui",
+                }}
+              >
+                Instructions: "To donation, simply scan the QR code using your
+                smartphone or tablet camera. Make sure you have an internet
                 connection and a QR code reader app installed. Happy exploring!"
               </p>
-              <a style={{ fontSize:'20px', fontWeight:600, fontFamily:'system-ui' }}
+              <button
+                style={{
+                  fontSize: "20px",
+                  fontWeight: 600,
+                  fontFamily: "system-ui",
+                }}
                 class="btn btn-dark btn-theme-colored btn-lg btn-flat pull-left pl-30 pr-30"
-                href="#"
               >
                 Join Us
-              </a>
+              </button>
             </div>
             <div class="col-md-5">
               <div class="fluid-video-wrapper">
-                <img src="images/qrCode.jpg" width="440" height="700" />
+                <img
+                  src="images/qrCode.jpg"
+                  width="440"
+                  height="700"
+                  alt="lal"
+                />
               </div>
             </div>
           </div>

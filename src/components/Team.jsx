@@ -63,19 +63,19 @@ export const Team = (props) => {
                     <div class="display-table">
                       <div class="display-table-cell">
                         <ul>
-                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</a></li>
-                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br/> comments</a></li>
+                          <li><button class="text-white" ><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</button></li>
+                          <li class="mt-20"><button class="text-white" ><i class="fa fa-comments-o"></i> 72 <br/> comments</button></li>
                         </ul>
                       </div>
                     </div>
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><button>Sponsor a child today</button></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <button class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" >Read more</button>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
-                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><button class="text-theme-colored" >Admin |</button></li>
                       <li><span class="text-theme-colored">Nov 13, 2015</span></li>
                     </ul>
                     <div class="clearfix"></div>
@@ -92,19 +92,19 @@ export const Team = (props) => {
                     <div class="display-table">
                       <div class="display-table-cell">
                         <ul>
-                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</a></li>
-                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br/> comments</a></li>
+                          <li><button class="text-white" ><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</button></li>
+                          <li class="mt-20"><button class="text-white" ><i class="fa fa-comments-o"></i> 72 <br/> comments</button></li>
                         </ul>
                       </div>
                     </div>
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><button>Sponsor a child today</button></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <button class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" >Read more</button>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
-                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><button class="text-theme-colored" >Admin |</button></li>
                       <li><span class="text-theme-colored">Nov 13, 2015</span></li>
                     </ul>
                     <div class="clearfix"></div>
@@ -121,19 +121,19 @@ export const Team = (props) => {
                     <div class="display-table">
                       <div class="display-table-cell">
                         <ul>
-                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</a></li>
-                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br/> comments</a></li>
+                          <li><button class="text-white" ><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</button></li>
+                          <li class="mt-20"><button class="text-white" ><i class="fa fa-comments-o"></i> 72 <br/> comments</button></li>
                         </ul>
                       </div>
                     </div>
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><button>Sponsor a child today</button></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <button class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" >Read more</button>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
-                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><button class="text-theme-colored" >Admin |</button></li>
                       <li><span class="text-theme-colored">Nov 13, 2015</span></li>
                     </ul>
                     <div class="clearfix"></div>
@@ -150,19 +150,19 @@ export const Team = (props) => {
                     <div class="display-table">
                       <div class="display-table-cell">
                         <ul>
-                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</a></li>
-                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br/> comments</a></li>
+                          <li><button class="text-white" ><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</button></li>
+                          <li class="mt-20"><button class="text-white" ><i class="fa fa-comments-o"></i> 72 <br/> comments</button></li>
                         </ul>
                       </div>
                     </div>
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><button>Sponsor a child today</button></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <button class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" >Read more</button>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
-                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><button class="text-theme-colored" >Admin |</button></li>
                       <li><span class="text-theme-colored">Nov 13, 2015</span></li>
                     </ul>
                     <div class="clearfix"></div>
@@ -179,19 +179,19 @@ export const Team = (props) => {
                     <div class="display-table">
                       <div class="display-table-cell">
                         <ul>
-                          <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</a></li>
-                          <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br/> comments</a></li>
+                          <li><button class="text-white" ><i class="fa fa-thumbs-o-up"></i> 265 <br/> Likes</button></li>
+                          <li class="mt-20"><button class="text-white" ><i class="fa fa-comments-o"></i> 72 <br/> comments</button></li>
                         </ul>
                       </div>
                     </div>
                     </div>
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="#">Sponsor a child today</a></h5>
+                    <h5 class="entry-title mt-0 pt-0"><button>Sponsor a child today</button></h5>
                     <p class="text-left mb-20 mt-15 font-13">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="#">Read more</a>
+                    <button class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" >Read more</button>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
-                      <li><a class="text-theme-colored" href="#">Admin |</a></li>
+                      <li><button class="text-theme-colored" >Admin |</button></li>
                       <li><span class="text-theme-colored">Nov 13, 2015</span></li>
                     </ul>
                     <div class="clearfix"></div>

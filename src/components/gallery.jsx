@@ -71,28 +71,26 @@ export const Gallery = (props) => {
                       <div class="overlay">
                         <div class="content text-center">
                           <h4 class="author mb-0">
-                            <a href="#" class="text-white">
-                              Alex Jacobson
-                            </a>
+                            <button class="text-white">Alex Jacobson</button>
                           </h4>
                           <h6 class="title text-black font-14 mt-5 mb-15">
                             Joined: May, 15
                           </h6>
                           <ul class="styled-icons icon-gray icon-sm mt-10">
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-facebook"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-twitter"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-google-plus"></i>
-                              </a>
+                              </button>
                             </li>
                           </ul>
                         </div>
@@ -113,28 +111,26 @@ export const Gallery = (props) => {
                       <div class="overlay">
                         <div class="content text-center">
                           <h4 class="author mb-0">
-                            <a href="#" class="text-white">
-                              Alex Jacobson
-                            </a>
+                            <button class="text-white">Alex Jacobson</button>
                           </h4>
                           <h6 class="title text-black font-14 mt-5 mb-15">
                             Joined: May, 15
                           </h6>
                           <ul class="styled-icons icon-gray icon-sm mt-10">
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-facebook"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-twitter"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-google-plus"></i>
-                              </a>
+                              </button>
                             </li>
                           </ul>
                         </div>
@@ -155,28 +151,26 @@ export const Gallery = (props) => {
                       <div class="overlay">
                         <div class="content text-center">
                           <h4 class="author mb-0">
-                            <a href="#" class="text-white">
-                              Alex Jacobson
-                            </a>
+                            <button class="text-white">Alex Jacobson</button>
                           </h4>
                           <h6 class="title text-black font-14 mt-5 mb-15">
                             Joined: May, 15
                           </h6>
                           <ul class="styled-icons icon-gray icon-sm mt-10">
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-facebook"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-twitter"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-google-plus"></i>
-                              </a>
+                              </button>
                             </li>
                           </ul>
                         </div>
@@ -197,28 +191,26 @@ export const Gallery = (props) => {
                       <div class="overlay">
                         <div class="content text-center">
                           <h4 class="author mb-0">
-                            <a href="#" class="text-white">
-                              Alex Jacobson
-                            </a>
+                            <button class="text-white">Alex Jacobson</button>
                           </h4>
                           <h6 class="title text-black font-14 mt-5 mb-15">
                             Joined: May, 15
                           </h6>
                           <ul class="styled-icons icon-gray icon-sm mt-10">
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-facebook"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-twitter"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-google-plus"></i>
-                              </a>
+                              </button>
                             </li>
                           </ul>
                         </div>
@@ -239,28 +231,26 @@ export const Gallery = (props) => {
                       <div class="overlay">
                         <div class="content text-center">
                           <h4 class="author mb-0">
-                            <a href="#" class="text-white">
-                              Alex Jacobson
-                            </a>
+                            <button class="text-white">Alex Jacobson</button>
                           </h4>
                           <h6 class="title text-black font-14 mt-5 mb-15">
                             Joined: May, 15
                           </h6>
                           <ul class="styled-icons icon-gray icon-sm mt-10">
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-facebook"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-twitter"></i>
-                              </a>
+                              </button>
                             </li>
                             <li>
-                              <a href="#">
+                              <button>
                                 <i class="fa fa-google-plus"></i>
-                              </a>
+                              </button>
                             </li>
                           </ul>
                         </div>

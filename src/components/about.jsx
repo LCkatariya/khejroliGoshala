@@ -57,7 +57,7 @@ export const Goles = (props) => {
                 </div>
                 <div class="causes-details clearfix border-bottom p-15 pt-10">
                   <h5>
-                    <a href="#">Sponsor a child today</a>
+                    <button>Sponsor a child today</button>
                   </h5>
                   <p>
                     Lorem ipsum dolor sit amet, consect adipisicing elit.
@@ -70,12 +70,12 @@ export const Goles = (props) => {
                     </li>
                   </ul>
                   <div class="mt-10">
-                    <a
+                    <button
                       class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                      href="#"
+                     
                     >
                       Donate
-                    </a>
+                    </button>
                     <div class="pull-right mt-15">
                       <i class="fa fa-heart-o text-theme-colored"></i> 89 Donors
                     </div>
@@ -99,7 +99,7 @@ export const Goles = (props) => {
                 </div>
                 <div class="causes-details clearfix border-bottom p-15 pt-10">
                   <h5>
-                    <a href="#">Sponsor a child today</a>
+                    <button>Sponsor a child today</button>
                   </h5>
                   <p>
                     Lorem ipsum dolor sit amet, consect adipisicing elit.
@@ -112,12 +112,12 @@ export const Goles = (props) => {
                     </li>
                   </ul>
                   <div class="mt-10">
-                    <a
+                    <button
                       class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                      href="#"
+                     
                     >
                       Donate
-                    </a>
+                    </button>
                     <div class="pull-right mt-15">
                       <i class="fa fa-heart-o text-theme-colored"></i> 89 Donors
                     </div>
@@ -141,7 +141,7 @@ export const Goles = (props) => {
                 </div>
                 <div class="causes-details clearfix border-bottom p-15 pt-10">
                   <h5>
-                    <a href="#">Sponsor a child today</a>
+                    <button>Sponsor a child today</button>
                   </h5>
                   <p>
                     Lorem ipsum dolor sit amet, consect adipisicing elit.
@@ -154,12 +154,12 @@ export const Goles = (props) => {
                     </li>
                   </ul>
                   <div class="mt-10">
-                    <a
+                    <button
                       class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                      href="#"
+                     
                     >
                       Donate
-                    </a>
+                    </button>
                     <div class="pull-right mt-15">
                       <i class="fa fa-heart-o text-theme-colored"></i> 89 Donors
                     </div>
@@ -183,7 +183,7 @@ export const Goles = (props) => {
                 </div>
                 <div class="causes-details clearfix border-bottom p-15 pt-10">
                   <h5>
-                    <a href="#">Sponsor a child today</a>
+                    <button>Sponsor a child today</button>
                   </h5>
                   <p>
                     Lorem ipsum dolor sit amet, consect adipisicing elit.
@@ -196,12 +196,12 @@ export const Goles = (props) => {
                     </li>
                   </ul>
                   <div class="mt-10">
-                    <a
+                    <button
                       class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10"
-                      href="#"
+                     
                     >
                       Donate
-                    </a>
+                    </button>
                     <div class="pull-right mt-15">
                       <i class="fa fa-heart-o text-theme-colored"></i> 89 Donors
                     </div>

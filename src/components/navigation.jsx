@@ -25,9 +25,9 @@ export const Navigation = (props) => {
         <div class="header-nav-wrapper">
           <div class={`container ${scrollY >= 40 ? "" : `pt-10 pb-10`}`}>
             <nav id="menuzord-right" class="menuzord orange">
-              <a class="menuzord-brand" href="javascript:void(0)">
+              <button class="menuzord-brand">
                 <img src="images/logo-wide.png" width={'150px'} alt="" />
-              </a>
+              </button>
               <div id="side-panel-trigger" class="side-panel-trigger">
                 <a href="#causes">
                   <i class="fa fa-bars font-24 text-gray"></i>

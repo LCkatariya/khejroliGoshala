@@ -2,7 +2,7 @@ import React from "react";
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import "@splidejs/splide/dist/css/splide.min.css";
 
-export const Features = (props) => {
+export const Features = () => {
   const settings = {
     type: "loop",
     rewind: false,
@@ -12,7 +12,6 @@ export const Features = (props) => {
     gap: 0,
     autoplay: true,
     padding: 0,
-    pagination: false,
     arrows: true,
     pagination: true,
     autoWidth: true,

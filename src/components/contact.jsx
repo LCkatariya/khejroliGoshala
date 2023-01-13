@@ -1,36 +1,36 @@
 import React from "react";
-import { useState } from "react";
-import emailjs from "emailjs-com";
+// import { useState } from "react";
+// import emailjs from "emailjs-com";
 
-const initialState = {
-  name: "",
-  email: "",
-  message: "",
-};
+// const initialState = {
+//   name: "",
+//   email: "",
+//   message: "",
+// };
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  // const [{ name, email, message }, setState] = useState(initialState);
 
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setState((prevState) => ({ ...prevState, [name]: value }));
-  };
-  const clearState = () => setState({ ...initialState });
+  // const handleChange = (e) => {
+  //   const { name, value } = e.target;
+  //   setState((prevState) => ({ ...prevState, [name]: value }));
+  // };
+  // const clearState = () => setState({ ...initialState });
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log(name, email, message);
-    emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
-      .then(
-        (result) => {
-          console.log(result.text);
-          clearState();
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
-  };
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  //   console.log(name, email, message);
+  //   emailjs
+  //     .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
+  //     .then(
+  //       (result) => {
+  //         console.log(result.text);
+  //         clearState();
+  //       },
+  //       (error) => {
+  //         console.log(error.text);
+  //       }
+  //     );
+  // };
   return (
     <section id="contact">
       <div class="container pt-70">
@@ -182,10 +182,10 @@ export const Contact = (props) => {
                 <div class="col-xs-12 col-sm-12 col-md-12">
                   <div class="icon-box left media bg-black-333 p-30 mb-20">
                     {" "}
-                    <a class="media-left pull-left" href="#">
+                    <button class="media-left pull-left">
                       {" "}
                       <i class="pe-7s-map-2 text-theme-colored"></i>
-                    </a>
+                    </button>
                     <div class="media-body">
                       {" "}
                       <strong class="text-white">OUR OFFICE LOCATION</strong>
@@ -196,10 +196,10 @@ export const Contact = (props) => {
                 <div class="col-xs-12 col-sm-6 col-md-12 text-white">
                   <div class="icon-box left media bg-black-333 p-30 mb-20">
                     {" "}
-                    <a class="media-left pull-left" href="#">
+                    <button class="media-left pull-left">
                       {" "}
                       <i class="pe-7s-call text-theme-colored"></i>
-                    </a>
+                    </button>
                     <div class="media-body">
                       {" "}
                       <strong class="text-white">OUR CONTACT NUMBER</strong>
@@ -210,10 +210,10 @@ export const Contact = (props) => {
                 <div class="col-xs-12 col-sm-6 col-md-12 text-white">
                   <div class="icon-box left media bg-black-333 p-30 mb-20">
                     {" "}
-                    <a class="media-left pull-left" href="#">
+                    <button class="media-left pull-left">
                       {" "}
                       <i class="pe-7s-mail text-theme-colored"></i>
-                    </a>
+                    </button>
                     <div class="media-body">
                       {" "}
                       <strong class="text-white">OUR CONTACT E-MAIL</strong>
@@ -224,10 +224,10 @@ export const Contact = (props) => {
                 <div class="col-xs-12 col-sm-6 col-md-12 text-white">
                   <div class="icon-box left media bg-black-333 p-30 mb-20">
                     {" "}
-                    <a class="media-left pull-left" href="#">
+                    <button class="media-left pull-left">
                       {" "}
                       <i class="fa fa-skype text-theme-colored"></i>
-                    </a>
+                    </button>
                     <div class="media-body">
                       {" "}
                       <strong class="text-white">Make a Video Call</strong>
